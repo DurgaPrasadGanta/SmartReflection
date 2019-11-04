@@ -42,3 +42,4 @@ Our project is a proof of concept has the following features:
 Given more time we intend to add the following features:
 * Facial Recognition to unlock the mirror
 * Voice Assistant to control the mirror using voice commands
+

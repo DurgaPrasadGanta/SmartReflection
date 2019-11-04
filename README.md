@@ -14,3 +14,11 @@ GitHub Repository - https://github.com/Mkr1996/SmartReflection
 ## Initial Sketch
 
 ![](https://github.com/Mkr1996/SmartReflection/blob/master/UI%20design.PNG)
+
+## Gif of the Mirror
+
+( insert Gif here )
+
+## Our Team
+
+![](https://github.com/Mkr1996/SmartReflection/blob/master/p1.groupID.png.jpeg)

@@ -11,3 +11,6 @@ Presentation Page - https://github.com/Mkr1996/SmartReflection/blob/master/READM
 
 GitHub Repository - https://github.com/Mkr1996/SmartReflection
 
+## Initial Sketch
+
+![]https://github.com/Mkr1996/SmartReflection/blob/master/UI%20design.PNG

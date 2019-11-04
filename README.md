@@ -17,7 +17,7 @@ GitHub Repository - https://github.com/Mkr1996/SmartReflection
 
 ## Gif of the Mirror
 
-( insert Gif here )
+![](https://github.com/Mkr1996/SmartReflection/blob/master/p1.4.gif.gif)
 
 ## Our Team
 

@@ -21,7 +21,7 @@ GitHub Repository - https://github.com/Mkr1996/SmartReflection
 
 ## Our Team
 
-![](https://github.com/Mkr1996/SmartReflection/blob/master/p1.groupID.png.jpeg)
+![](https://github.com/Mkr1996/SmartReflection/blob/master/p1.4.png.jpeg)
 
 ## Our Features
 

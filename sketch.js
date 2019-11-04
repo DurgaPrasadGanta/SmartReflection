@@ -46,12 +46,14 @@ function draw() {
 weatherr.position(10,235); document.getElementById("weatherr").addEventListener("click",temperatur);
 weatherr.mousePressed(temperatur);
   
-  button = createImg('https://i.imgur.com/7qshlSV.png');
-button.position(10,300);
- // button.mousePressed(moods);
+ 
+  Playbutton = createImg('https://i.imgur.com/7qshlSV.png');
+Playbutton.position(10,300);
+Playbutton.mousePressed(playAudio);
   
-  button = createImg('https://i.imgur.com/7qshlSV.png');
-button.position(10,350);
+ Pausebutton = createImg('https://img.icons8.com/metro/26/000000/stop.png');
+Pausebutton.position(10,360);
+Pausebutton.mousePressed(pauseAudio);
 
   button = createImg('https://i.imgur.com/j71bxyg.png');
 button.position(560,470);
@@ -98,9 +100,15 @@ textSize(24);
  // text('Day Mode',250,70);
 }
 
-function calendar(){
+var x = document.getElementById("myAudio"); 
 
-}
+function playAudio() { 
+  x.play(); 
+} 
+
+function pauseAudio() { 
+  x.pause(); 
+} 
 
 function temperatur(){
   alert(temperature+" °C  \n"+weather);
